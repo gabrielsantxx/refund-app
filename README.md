@@ -10,7 +10,7 @@
 ##  O Refund foi construido junto aos meus estudos do curso de formação FullStack da plataforma Rocketseat.
 
 ## Instruções de uso
-### 1. Recomendado usar o localhost para testar o aplicativo.
+### 1. Usar o localhost para testar o aplicativo.
 ### 2. Digite o nome da despesa, selecione a categoria em que ela se encaixa e digite o valor dessa despesa.
 ### 3. Clique em adicionar despesa ou aperte a tecla Enter.
 ### 4. Você também consegue remover uma despesa da lista que foi adicionada anteriormente.
